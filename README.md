@@ -37,3 +37,14 @@ We sourced our data from [Kaggle](https://www.kaggle.com/); Specifically, we wor
 ## Report
 Our finalized report can be viewed at the following RPubs [link](https://rpubs.com/iainmuir/ds3001-socio-economic-clustering).
 
+## Credits
+**Joseph Lee**
+* E: sl5nj@virginia.edu  
+* [GitHub](https://github.com/josephswlee)  
+* [LinkedIn](https://www.linkedin.com/in/lee-sangwoo/)  
+
+**Kent Williams**
+* E: kbw3bb@virginia.edu  
+* [GitHub](https://github.com/kbw3bb)  
+* [LinkedIn](https://www.linkedin.com/in/kent-williams-/)  
+
