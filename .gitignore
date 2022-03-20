@@ -1,4 +1,14 @@
+# R Project Info
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Unused CSV Files
+heart_failure_clinical_records_dataset.csv
+labels.csv
+map_world.csv
+
+# Miscellaneous
+rsconnect/
+.DS_Store
