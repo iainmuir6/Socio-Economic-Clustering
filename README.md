@@ -1,4 +1,9 @@
-<center><img src="https://help-international.org/sites/all/themes/help/logo.png" alt="help" class="center" width="250"></center>
+<p align="center">
+  <img src='https://www.salesforce.org/wp-content/uploads/2021/02/uva-university-of-virginia-logo.png' width=300/>
+  <img src="https://help-international.org/sites/all/themes/help/logo.png" alt="help" class="center" width="250"/>
+</p>  
+
+
 
 # Socio-Economic Clustering
 
